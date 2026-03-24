@@ -119,25 +119,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayesha-arbi&theme=tokyonight&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 Activity Graph
-
-<div align="center">
-
-[![Ayesha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayesha-arbi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
