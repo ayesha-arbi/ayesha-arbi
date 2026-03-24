@@ -15,7 +15,7 @@
 
 - 🎓 **Software Engineering** student with **1–2 years** of hands-on development experience
 - 🌍 Based in **Pakistan** — building for a global audience
-- 🚀 Founder of **[Projex.PK]** — connecting final-year student projects with investors & mentors across Pakistan
+- 🚀 Building **[Projex.PK]** — connecting final-year student projects with investors & mentors across Pakistan
 - 🏆 Solved **200+ LeetCode problems** — competitive programming is my sport
 - 🎨 Full-cycle designer: **UI/UX → Prototyping → Design Systems → Wireframing** (all in Figma)
 - 🤖 Actively exploring **AI/ML** and integrating intelligent features into real products
