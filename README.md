@@ -121,15 +121,13 @@
 
 ---
 
-## 👾 Pacman Contribution Graph
+## 🐍 Snake Contribution Graph
 
 <div align="center">
 
-![Pacman](https://raw.githubusercontent.com/ayesha-arbi/ayesha-arbi/output/github-contribution-grid-pacman.svg)
+![Snake](https://raw.githubusercontent.com/ayesha-arbi/ayesha-arbi/output/github-contribution-grid-snake.svg)
 
 </div>
-
-> ⚙️ *Pacman auto-updates daily via GitHub Actions.*
 
 ---
 
