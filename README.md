@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDN0OWxqaDcyeW1uZjQ4bWxzdzFzYjdxOHZlNndidmJ0NmZqOWg3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="20%" />
-
----
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&color=00FFFF&center=true&vCenter=true&width=800&lines=Ayesha+Muhammad+Zahid&duration=0&repeat=false" />
-  </a>
-</p>
+ <img src="./banner.png" alt="Banner" width="80%" />
 
 ---
 
