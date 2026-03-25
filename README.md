@@ -1,7 +1,19 @@
 <div align="center">
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDN0OWxqaDcyeW1uZjQ4bWxzdzFzYjdxOHZlNndidmJ0NmZqOWg3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="20%" />
+
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&color=00FFFF&center=true&vCenter=true&width=800&lines=Ayesha+Muhammad+Zahid&duration=0&repeat=false" />
+  </a>
+</p>
+
+---
+
 <!-- Typing Animation Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ayesha+Zahid+%F0%9F%91%8B;Full-Stack+Developer+%7C+Builder;Competitive+Programmer+%7C+200%2B+LeetCode;UI%2FUX+Designer+%7C+AI+Explorer;Currently+building+Projex.PK+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=ICPC+Onsite+Qualifier+-+2025;Full-Stack+Developer+%7C+Builder;Competitive+Programmer+%7C+200%2B+LeetCode;UI%2FUX+Designer+%7C+AI+Explorer;Currently+building+Projex.PK+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayesha-arbi&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -74,18 +86,19 @@
 
 ### 📜 Certifications
 
-**![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) Google**
-- UX Design — Google Career Certificate
-- Crash Course on Python
-- Using Python to Interact with the Operating System
-- Attract and Engage Customers with Digital Marketing
-- Foundations of Digital Marketing and E-commerce
+<div align="center">
 
-**![Meta](https://img.shields.io/badge/Meta-0467DF?style=flat-square&logo=meta&logoColor=white) Meta**
-- Introduction to Front-End Development
+| 🏢 Issuer | 📄 Certificate |
+|-----------|---------------|
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google** | UX Design — Google Career Certificate |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google** | Crash Course on Python |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google** | Using Python to Interact with the Operating System |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google** | Attract and Engage Customers with Digital Marketing |
+| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google** | Foundations of Digital Marketing and E-commerce |
+| ![Meta](https://img.shields.io/badge/Meta-0467DF?style=flat-square&logo=meta&logoColor=white) **Meta** | Introduction to Front-End Development |
+| ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white) **freeCodeCamp** | Responsive Web Design |
 
-**![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white) freeCodeCamp**
-- Responsive Web Design
+</div>
 
 ---
 
