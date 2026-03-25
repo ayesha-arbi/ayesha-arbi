@@ -75,30 +75,24 @@
 ### 📜 Certifications
 
 **![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) Google**
-- ✅ UX Design — Google Career Certificate
-- ✅ Crash Course on Python
-- ✅ Using Python to Interact with the Operating System
-- ✅ Attract and Engage Customers with Digital Marketing
-- ✅ Foundations of Digital Marketing and E-commerce
+- UX Design — Google Career Certificate
+- Crash Course on Python
+- Using Python to Interact with the Operating System
+- Attract and Engage Customers with Digital Marketing
+- Foundations of Digital Marketing and E-commerce
 
 **![Meta](https://img.shields.io/badge/Meta-0467DF?style=flat-square&logo=meta&logoColor=white) Meta**
-- ✅ Introduction to Front-End Development
+- Introduction to Front-End Development
 
 **![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white) freeCodeCamp**
-- ✅ Responsive Web Design
-
-### 🏆 Achievements
-- 🥇 Solved **200+ LeetCode problems** — strong DSA foundations
-- 🎨 End-to-end Figma proficiency: **UI Design · Wireframing · Prototyping · Design Systems**
-- 🖥️ Desktop app development with **C# WinForms/WPF**
-- 🔗 Full REST API development & testing with **Postman**
-- ⚙️ CI/CD pipelines via **GitHub Actions** · Deployment on **Vercel** & **Netlify**
+- Responsive Web Design
 
 ---
 
 ## 🌱 Currently Learning
 
-- ⚔️ Sharpening **competitive programming** skills (data structures, algorithms)
+- ⚔️ Sharpening **competitive programming** skills (Advance data structures, algorithms)
+- 💻 Exploring **Open Source** 
 - 🤖 Applying **AI/ML** concepts in real product features
 - 🎨 Levelling up **UI/UX** with advanced design systems
 
