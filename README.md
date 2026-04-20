@@ -19,10 +19,8 @@
 
 - 🎓 **Software Engineering** student with **1–2 years** of hands-on development experience
 - 🌍 Based in **Pakistan** — building for a global audience
-- 🚀 Building **[Projex.PK]** — connecting final-year student projects with investors & mentors across Pakistan
 - 🏆 Solved **200+ LeetCode problems** — competitive programming is my sport
-- 🎨 Full-cycle designer: **UI/UX → Prototyping → Design Systems → Wireframing** (all in Figma)
-- 🤖 Actively exploring **AI/ML** and integrating intelligent features into real products
+- 🎨 Full-cycle designer: **UI/UX → Prototyping → Design Systems → Wireframing** 
 - 🤝 Open to collaborating on projects that **actually matter**
 
 ---
@@ -63,16 +61,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🏗️ Projex.PK *(In Development)*
-> A platform bridging the gap between **final-year student projects** and **investors, mentors & industry professionals** in Pakistan.
-
-- 📌 Full-stack: React + Node.js + MongoDB
-- 🎯 Mission: Turn student innovation into real-world impact
-- 🌐 Built for the Pakistani tech ecosystem
-
----
 
 ## 🏅 Certifications & Achievements
 
@@ -94,14 +82,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- ⚔️ Sharpening **competitive programming** skills (Advance data structures, algorithms)
-- 💻 Exploring **Open Source** 
-- 🤖 Applying **AI/ML** concepts in real product features
-- 🎨 Levelling up **UI/UX** with advanced design systems
-
----
 
 ## 📊 GitHub Stats
 
