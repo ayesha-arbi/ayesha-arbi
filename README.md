@@ -99,6 +99,10 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ayesha-arbi/ayesha-arbi/output/github-snake.svg" alt="Snake animation" />
+</div>
+---
 
 ## 📬 Let's Connect
 
