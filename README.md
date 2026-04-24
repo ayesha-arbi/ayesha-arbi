@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-> *I don't just write code — I build products that solve real problems.*
+> I build products that solve real problems.*
 
 - 🎓 **Software Engineering** student with **1–2 years** of hands-on development experience
 - 🌍 Based in **Pakistan** — building for a global audience
@@ -122,6 +122,6 @@
 
 <div align="center">
 
-*"Build things that matter. Ship. Iterate. Repeat."* 💜
+*" Put yourself out there to create luck - Dalton Caldwell's "* 💜
 
 </div>
