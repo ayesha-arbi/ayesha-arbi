@@ -98,7 +98,6 @@
 
 </div>
 
----
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayesha-arbi/ayesha-arbi/output/github-snake-dark.svg" />
@@ -106,7 +105,6 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/ayesha-arbi/ayesha-arbi/output/github-snake.svg" />
   </picture>
 </div>
----
 
 ## 📬 Let's Connect
 
