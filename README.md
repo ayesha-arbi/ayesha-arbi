@@ -4,7 +4,7 @@
 
 ---
 
-<!-- Typing Animation Banner -->
+<!-- Typing Animation Banner LOLSSSS-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=ICPC+Onsite+Qualifier+-+2025;Full-Stack+Developer+%7C+Builder;Competitive+Programmer+%7C+200%2B+LeetCode;UI%2FUX+Designer+%7C+AI+Explorer;Currently+building+Projex.PK+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayesha-arbi&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
