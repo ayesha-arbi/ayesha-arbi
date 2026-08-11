@@ -1,125 +1,38 @@
-<div align="center">
-
- <img src="./banner.png" alt="Banner" width="100%" />
-
----
-
-<!-- Typing Animation Banner LOLSSSS-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=ICPC+Onsite+Qualifier+-+2025;Full-Stack+Developer+%7C+Builder;Competitive+Programmer+%7C+200%2B+LeetCode;UI%2FUX+Designer+%7C+AI+Explorer;Currently+building+Projex.PK+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayesha-arbi&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 🧠 About Me
-
-> I build products that solve real problems.*
-
-- 🎓 **Software Engineering** student with **1–2 years** of hands-on development experience
-- 🌍 Based in **Pakistan** — building for a global audience
-- 🏆 Solved **200+ LeetCode problems** — competitive programming is my sport
-- 🎨 Full-cycle designer: **UI/UX → Prototyping → Design Systems → Wireframing** 
-- 🤝 Open to collaborating on projects that **actually matter**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Frontend
 
-### 🖥️ Desktop Development
-![C#](https://img.shields.io/badge/WinForms%2FWPF-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge\&logo=greensock\&logoColor=black)
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+### Backend & Database
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
+### Desktop Development
 
-## 🏅 Certifications & Achievements
+![C#](https://img.shields.io/badge/WinForms%2FWPF-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
-### 📜 Certifications
+### Tools & Platforms
 
-<div align="center">
-
-| 🏢 Issuer | 📄 Certificate |
-|-----------|---------------|
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google** | UX Design — Google Career Certificate |
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google** | Crash Course on Python |
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google** | Using Python to Interact with the Operating System |
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google** | Attract and Engage Customers with Digital Marketing |
-| ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) **Google** | Foundations of Digital Marketing and E-commerce |
-| ![Meta](https://img.shields.io/badge/Meta-0467DF?style=flat-square&logo=meta&logoColor=white) **Meta** | Introduction to Front-End Development |
-| ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white) **freeCodeCamp** | Responsive Web Design |
-
-</div>
-
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayesha-arbi&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-arbi&layout=compact&theme=tokyonight&border_radius=10" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayesha-arbi&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayesha-arbi/ayesha-arbi/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayesha-arbi/ayesha-arbi/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ayesha-arbi/ayesha-arbi/output/github-snake.svg" />
-  </picture>
-</div>
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayeshaarbi7/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshaarbi7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayesha-arbi.github.io/Portfolio/)
-
-</div>
-
----
-
-<div align="center">
-
-*" Put yourself out there to create luck - Dalton Caldwell's "* 💜
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
