@@ -1,74 +1,99 @@
-`ayesha-arbi ~ % whoami`
+<div align="center">
 
-**Ayesha Zahid** — software engineering student building applied AI systems: a multi-agent land-analysis engine, a Gemini-grounded Q&A app, a browser extension with real users. Ships most of it under MIT. Pakistan.
+## WHAT I BUILD WITH
 
-```toml
-# stack.manifest.toml
-# confidence-tagged from actual repos, not aspiration.
-# core       -> foundation of more than one shipped project
-# applied    -> used in one real, working system (not a toy import)
-# declared   -> on my own badge row, not yet corroborated here
+</div>
 
-[languages]
-core     = ["typescript", "javascript", "python"]
-applied  = ["c++"]                      # assignment/greedy algorithm in MiniJira
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[frontend]
-core     = ["next.js (app router)", "react"]
-applied  = ["react-native / expo", "chrome-extension (manifest-v3)"]
-support  = ["recharts", "lucide-react", "css-variables design system"]
+### `01 — CORE`
 
-[backend]
-applied  = ["next.js api routes", "supabase edge-functions (deno)"]
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
 
-[data]
-applied  = ["supabase / postgres"]
+<br><br>
 
-[ai_generative]
-core     = ["google gemini api", "vercel ai sdk"]
-shipped  = [
-  "multi-agent scoring pipeline   -> zameendar.ai",
-  "retrieval-grounded q&a         -> askquran (gemini + quran.foundation api)",
-]
+### `02 — BUILD`
 
-[integrations]
-applied  = ["google maps / leaflet", "open-meteo", "open-elevation", "nominatim (osm)", "tavily ai search"]
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,nodejs,express,figma" />
 
-[infra_deploy]
-core     = ["vercel"]
-applied  = ["netlify", "supabase"]
+<br><br>
 
-[research_adjacent]
-applied  = ["data structures & algorithms — assignment/greedy problems"]
+### `03 — DATA`
 
-[declared]
-# on ayesha-arbi/ayesha-arbi's badge row; not corroborated in the
-# repos inspected for this manifest — likely real, just unverified here.
-note     = ["c#", ".net", "winforms/wpf", "sql", "github-actions", "postman", "figma"]
-```
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase" />
 
-## how the AI pieces actually fit together
+</td>
 
-The shape below is the real pattern behind both `zameendar.ai`'s scoring engine and `AskQuran`'s answer pipeline — not a generic "AI stack" diagram.
+<td width="50%" valign="top">
 
-```mermaid
-flowchart LR
-    A["external data<br/>maps · weather · elevation · scripture APIs"] --> B["orchestration<br/>vercel ai sdk / supabase edge functions"]
-    B --> C["model<br/>google gemini 2.0 flash"]
-    C --> D["grounded output<br/>scores · insights · answers"]
+### `04 — INFRA`
 
-    classDef data fill:#22262c,stroke:#4b5563,color:#c9d1d9
-    classDef engine fill:#3a2f1b,stroke:#d1a054,color:#f0d9a8
-    classDef model fill:#d1a054,stroke:#d1a054,color:#14171c
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,npm,vscode" />
 
-    class A data
-    class B engine
-    class C model
-    class D data
-```
+<br><br>
 
-Everything gets grounded in real external data before the model touches it — that's the one habit that shows up in both projects.
+### `05 — AI TOOLKIT`
 
----
+`ChatGPT` · `Claude` · `Codex` · `Cursor`
 
-`Pull Shark` · open to interesting problems · [LinkedIn](https://www.linkedin.com/in/ayeshaarbi7/)
+`Devin` · `Antigravity` · `GitHub Copilot`
+
+<br><br>
+
+### `06 — APIS & SDKs`
+
+`GitHub API` · `Octokit` · `Google Maps`
+
+`Leaflet` · `Chrome Extension APIs` · `REST APIs`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `07 — INTELLIGENCE`
+
+`OpenAI` · `Gemini` · `Groq` · `Qwen` · `Genkit`
+
+`LLMs` · `RAG` · `AI Agents`
+
+`Multi-Agent Systems` · `Agent Orchestration`
+
+<br>
+
+`scikit-learn` · `Pandas` · `NumPy`
+
+`Machine Learning`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `08 — AI × CODE`
+
+`AI for Software Engineering`
+
+`Code Intelligence` · `PR Analysis`
+
+`Bug Prediction` · `Automated Testing`
+
+`Developer Tools` · `CI/CD`
+
+<br>
+
+### `09 — RESEARCH`
+
+`ML for Code` · `LLM Evaluation`
+
+`Model Evaluation` · `Feature Engineering`
+
+`Temporal Evaluation`
+
+`Cross-Repository Generalization`
+
+</td>
+</tr>
+</table>
